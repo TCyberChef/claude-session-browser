@@ -1,0 +1,13 @@
+{
+  "name": "session-browser",
+  "description": "Browse and resume Claude Code sessions across all projects",
+  "version": "1.1.0",
+  "author": {
+    "name": "TCyberChef",
+    "url": "https://github.com/TCyberChef"
+  },
+  "homepage": "https://github.com/TCyberChef/claude-session-browser",
+  "repository": "https://github.com/TCyberChef/claude-session-browser",
+  "license": "MIT",
+  "keywords": ["sessions", "history", "resume", "browser", "conversations", "search"]
+}
